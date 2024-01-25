@@ -1,5 +1,13 @@
-### Hi there 👋
+### Меня зовут Ташланова Анна 👋
+Я закончила курс "Аналитик данных" Яндекс Практикума. Получила опыт работы со следующими технологиями:
+1. Язык Python и библиотеки pandas, Seaborn, Matplotlib, Numpy, Plotly, SciPy, Folium.
+2. Язык SQL
+3. БД PostgreSQL
+4. Система Tableau Public
 
+Выполнила ряд проектов, с которыми можно ознакомиться в [портфолио](https://github.com/AnnaTashlan/Portfolio) Нахожусь в активном поиске работы.
+- email: anna.tashlan@gmail.com
+- telegram: t.me/+79045827206
 <!--
 **AnnaTashlan/AnnaTashlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
