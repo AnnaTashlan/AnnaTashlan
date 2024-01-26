@@ -7,7 +7,7 @@
 
 Выполнила ряд проектов, с которыми можно ознакомиться в [портфолио](https://github.com/AnnaTashlan/Portfolio) Нахожусь в активном поиске работы.
 - email: anna.tashlan@gmail.com
-- telegram: t.me/+79045827206
+
 <!--
 **AnnaTashlan/AnnaTashlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
